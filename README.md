@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Alex
 
-<!--
-**Alex-gpt26/Alex-gpt26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile! I am a newcomer to the IT world and a passionate vibe coder.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+* I actively leverage various **AI tools** to build projects, learn modern technologies, and contribute to open-source software.
+* 💡 Constantly learning, experimenting, and exploring the future of software development!
+
+---
+
+### 🛠️ Tech & Tools I Use
+* **AI Collaborators:** ChatGPT & Claude, Gemini, Qwen
